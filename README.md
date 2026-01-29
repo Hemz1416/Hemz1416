@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Hemz1416/Hemz1416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 I am a Computer Science Engineering student at PES University (EC Campus) with a strong focus on Systems Programming and Cloud Infrastructure. I prefer working on the "guts" of software—optimizing performance, managing memory, and building distributed systems using C, C++, and Go. Currently, I am working on low-level projects like a custom shell implementation (GoShell) and diving deep into Operating System internals. My goal is to engineer robust, high-performance backend solutions rather than frontend interfaces.
 
